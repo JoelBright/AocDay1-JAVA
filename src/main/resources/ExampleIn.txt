@@ -1,0 +1,9 @@
+3   4
+4   3
+2   5
+1   3
+3   9
+3   3
+
+Given input, Part 1 answer was 11
+Given input, Part 2 answer was 31
